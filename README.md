@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rorycox21" alt="rorycox21" /></a> </p>
 
-- 🔭 I’m currently working on [A Wordle Clone](rorycox.herokuapp.com/wordle)
+- 🔭 I’m currently working on **a crypto trading algorithm**
 
 - 🌱 I’m currently learning **Node JS, Angular and React Native**
 
