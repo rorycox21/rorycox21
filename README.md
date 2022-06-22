@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a crypto trading algorithm**
 
-- 🌱 I’m currently learning **Node JS, Angular and React Native**
+- 🌱 I’m currently learning **about crypto**
 
 - 📫 How to reach me **rorycoxdublin@gmail.com**
 
